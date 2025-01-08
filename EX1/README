@@ -1,0 +1,51 @@
+                                Markov Chain Tweet Generator
+
+This program generates random tweets based on a given text corpus using a Markov Chain model.
+It simulates how words transition into each other based on their frequency and proximity in the input data.
+
+Files
+markov_chain.c: Contains the logic for the Markov Chain implementation, including node and database handling,
+as well as tweet generation. tweets_generator.c: The main driver program that reads the text file,
+initializes the Markov Chain, and generates random tweets.
+
+Overview
+The program works by:
+
+1.Reading a text file line by line.
+2.Tokenizing the text into words.
+3.Constructing a Markov Chain where each word is a node.
+4.Building a frequency list to determine how often one word follows another.
+5.Generating random tweets by randomly selecting words based on their transition frequencies.
+
+Requirements
+* C Compiler (e.g., GCC)
+* Standard C Libraries (stdio.h, stdlib.h, string.h, time.h, etc.)
+
+Compilation
+To compile the program, use the following command:
+gcc -Wall -Wextra -Wvla -std=c99 tweets_generator.c markov_chain.c linked_list.c -o tweets_generator
+
+This command compiles tweets_generator.c along with markov_chain.c and linked_list.c to generate the executable
+tweets_generator.
+
+
+Usage
+Command-line Arguments
+The program requires four command-line arguments:
+./tweets_generator <seed> <max_length> <file_path> <num_tweets>
+
+<seed>: An integer seed to initialize the random number generator. This controls the randomness of the tweet generation.
+<max_length>: The maximum length of each generated tweet (number of words).
+<file_path>: The path to the text file (corpus) from which to build the Markov Chain.
+<num_tweets>: The number of tweets to generate.
+
+Example Command
+./tweets_generator 42 10 "input.txt" 5
+This will generate 5 tweets, each with a maximum length of 10 words, using the input text file input.txt and a random
+seed of 42.
+
+Sample Output
+Tweet 1: The quick brown fox jumps over the lazy dog.
+Tweet 2: Lorem ipsum dolor sit amet consectetur adipiscing elit.
+Tweet 3: The sky is blue and the grass is green.
+...

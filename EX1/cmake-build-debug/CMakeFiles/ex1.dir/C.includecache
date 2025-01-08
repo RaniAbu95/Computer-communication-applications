@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.h
+stdlib.h
+-
+
+/Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.h
+linked_list.h
+/Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.h
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+stdlib.h
+-
+stddef.h
+-
+
+/Users/raniaburaia/CLionProjects/EX1_MarkovChain/tweets_generator.c
+markov_chain.h
+/Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.h
+stdio.h
+-
+string.h
+-
+unistd.h
+-
+
