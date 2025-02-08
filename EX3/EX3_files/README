@@ -1,0 +1,104 @@
+# HTTP Client Application
+
+## Overview
+This is a simple HTTP client implemented in C, named `client.c`. It allows users to send HTTP GET requests to specified
+URLs and handle responses, including redirections. The client supports adding query parameters dynamically via
+command-line arguments.
+
+
+## Features
+- Supports HTTP GET requests.
+- Handles redirections (HTTP 3xx status codes).
+- Allows adding query parameters dynamically through command-line arguments.
+- Validates input parameters and URLs.
+- Resolves hostnames and connects to servers via sockets.
+
+## Prerequisites
+- GCC compiler or any compatible C compiler.
+- Network access to test HTTP requests.
+
+## Compilation
+To compile the program, use the following command:
+```bash
+gcc -o client client.c
+```
+
+## Usage
+### Basic Request
+```bash
+./client <URL>
+```
+Example:
+```bash
+./client http://example.com
+```
+
+### Request with Query Parameters
+```bash
+./client -r n <param1=value1 param2=value2 ...> <URL>
+```
+Example:
+```bash
+./client -r 2 key1=value1 key2=value2 http://example.com
+```
+
+### Command-line Arguments
+- `-r n`: Specifies the number of query parameters (`n`).
+- `<URL>`: The target URL for the HTTP request.
+
+### Notes:
+- Query parameters must be provided as key=value pairs separated by spaces.
+- Query parameter count (`n`) must match the number of provided parameters.
+
+## Functions
+### `usage()`
+Displays usage instructions and exits the program.
+
+### `check_params(const char *params)`
+Validates query parameters to ensure proper formatting (key=value).
+
+### `parse_url(const char *url, char *host, char *path, int *port)`
+Parses the given URL into host, path, and port components.
+
+### `ensure_www_prefix(const char *host)`
+Ensures the host starts with the 'www.' prefix, adding it if necessary.
+
+### `build_request(char *request, const char *host, const char *path, const char *params)`
+Builds an HTTP GET request string.
+
+### `connect_to_host(const char *host, int port)`
+Creates a socket connection to the specified host and port.
+
+### `send_http_request(int sock, const char *host, const char *path, const char *params)`
+Sends the HTTP request over the socket.
+
+### `handle_response(int sock)`
+Handles the server response, printing the result or following redirections if necessary.
+
+## Example Output
+```
+HTTP request =
+GET /path HTTP/1.1
+Host: www.example.com
+
+LEN = 50
+
+Total received response bytes: 512
+```
+
+## Error Handling
+- Displays error messages for invalid input or connection failures.
+- Exits gracefully if memory allocation fails or invalid parameters are provided.
+
+## Limitations
+- Supports only HTTP (not HTTPS).
+- Does not support POST, PUT, or DELETE requests.
+- Handles only basic redirections.
+
+## License
+This project is open-source and free to use under the MIT License.
+
+## Author
+Rani Abu Raia
+
+Date: 28/12/2024

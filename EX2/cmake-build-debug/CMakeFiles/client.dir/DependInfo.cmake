@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/raniaburaia/CLionProjects/EX2/client.c" "/Users/raniaburaia/CLionProjects/EX2/cmake-build-debug/CMakeFiles/client.dir/client.c.o"
+  "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester A/יישומי תקשורת/EX2/client.c" "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester A/יישומי תקשורת/EX2/cmake-build-debug/CMakeFiles/client.dir/client.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

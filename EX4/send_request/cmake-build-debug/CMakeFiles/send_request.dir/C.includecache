@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester A/יישומי תקשורת/send_request/client.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+signal.h
+-
+
