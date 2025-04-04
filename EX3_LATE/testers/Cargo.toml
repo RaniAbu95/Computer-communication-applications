@@ -1,0 +1,16 @@
+[workspace]
+resolver = "2"
+
+members = [ 
+    "tests_lib", 
+    "assignment3-tester", 
+]
+
+[workspace.metadata]
+backtrace = "full"
+
+[profile.dev]
+debug = true
+
+[profile.release]
+debug = true

@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.c" "/Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles/ex1.dir/linked_list.c.o"
-  "/Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.c" "/Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles/ex1.dir/markov_chain.c.o"
-  "/Users/raniaburaia/CLionProjects/EX1_MarkovChain/tweets_generator.c" "/Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles/ex1.dir/tweets_generator.c.o"
+  "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/linked_list.c" "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles/ex1.dir/linked_list.c.o"
+  "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/markov_chain.c" "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles/ex1.dir/markov_chain.c.o"
+  "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/tweets_generator.c" "/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles/ex1.dir/tweets_generator.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.h
+/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/linked_list.h
 stdlib.h
 -
 
-/Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.h
+/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/markov_chain.h
 linked_list.h
-/Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.h
+/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/linked_list.h
 stdio.h
 -
 stdlib.h
@@ -24,9 +24,9 @@ stdlib.h
 stddef.h
 -
 
-/Users/raniaburaia/CLionProjects/EX1_MarkovChain/tweets_generator.c
+/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/tweets_generator.c
 markov_chain.h
-/Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.h
+/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/markov_chain.h
 stdio.h
 -
 string.h

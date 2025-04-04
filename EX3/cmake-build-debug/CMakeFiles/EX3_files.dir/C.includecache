@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raniaburaia/Desktop/Azrieli/Year-2025/Cources/Semester-A/Computer-communication-applications/EX3/server.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+threadpool.h
+/Users/raniaburaia/Desktop/Azrieli/Year-2025/Cources/Semester-A/Computer-communication-applications/EX3/threadpool.h
+sys/stat.h
+-
+dirent.h
+-
+
+/Users/raniaburaia/Desktop/Azrieli/Year-2025/Cources/Semester-A/Computer-communication-applications/EX3/threadpool.h
+pthread.h
+-
+

@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/cc -g -gdwarf-3 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/untitled.dir/main.c.o CMakeFiles/untitled.dir/linked_list.c.o CMakeFiles/untitled.dir/markov_chain.c.o CMakeFiles/untitled.dir/tweets_generator.c.o -o untitled 

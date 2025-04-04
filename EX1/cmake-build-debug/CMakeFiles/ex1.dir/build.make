@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/raniaburaia/CLionProjects/EX1_MarkovChain
+CMAKE_SOURCE_DIR = /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ex1.dir/depend.make
@@ -68,42 +68,42 @@ include CMakeFiles/ex1.dir/flags.make
 
 CMakeFiles/ex1.dir/linked_list.c.o: CMakeFiles/ex1.dir/flags.make
 CMakeFiles/ex1.dir/linked_list.c.o: ../linked_list.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ex1.dir/linked_list.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex1.dir/linked_list.c.o -c /Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ex1.dir/linked_list.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex1.dir/linked_list.c.o -c /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/linked_list.c
 
 CMakeFiles/ex1.dir/linked_list.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex1.dir/linked_list.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.c > CMakeFiles/ex1.dir/linked_list.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/linked_list.c > CMakeFiles/ex1.dir/linked_list.c.i
 
 CMakeFiles/ex1.dir/linked_list.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex1.dir/linked_list.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/raniaburaia/CLionProjects/EX1_MarkovChain/linked_list.c -o CMakeFiles/ex1.dir/linked_list.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/linked_list.c -o CMakeFiles/ex1.dir/linked_list.c.s
 
 CMakeFiles/ex1.dir/markov_chain.c.o: CMakeFiles/ex1.dir/flags.make
 CMakeFiles/ex1.dir/markov_chain.c.o: ../markov_chain.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ex1.dir/markov_chain.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex1.dir/markov_chain.c.o -c /Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/ex1.dir/markov_chain.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex1.dir/markov_chain.c.o -c /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/markov_chain.c
 
 CMakeFiles/ex1.dir/markov_chain.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex1.dir/markov_chain.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.c > CMakeFiles/ex1.dir/markov_chain.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/markov_chain.c > CMakeFiles/ex1.dir/markov_chain.c.i
 
 CMakeFiles/ex1.dir/markov_chain.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex1.dir/markov_chain.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/raniaburaia/CLionProjects/EX1_MarkovChain/markov_chain.c -o CMakeFiles/ex1.dir/markov_chain.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/markov_chain.c -o CMakeFiles/ex1.dir/markov_chain.c.s
 
 CMakeFiles/ex1.dir/tweets_generator.c.o: CMakeFiles/ex1.dir/flags.make
 CMakeFiles/ex1.dir/tweets_generator.c.o: ../tweets_generator.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ex1.dir/tweets_generator.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex1.dir/tweets_generator.c.o -c /Users/raniaburaia/CLionProjects/EX1_MarkovChain/tweets_generator.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/ex1.dir/tweets_generator.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ex1.dir/tweets_generator.c.o -c /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/tweets_generator.c
 
 CMakeFiles/ex1.dir/tweets_generator.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex1.dir/tweets_generator.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/raniaburaia/CLionProjects/EX1_MarkovChain/tweets_generator.c > CMakeFiles/ex1.dir/tweets_generator.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/tweets_generator.c > CMakeFiles/ex1.dir/tweets_generator.c.i
 
 CMakeFiles/ex1.dir/tweets_generator.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex1.dir/tweets_generator.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/raniaburaia/CLionProjects/EX1_MarkovChain/tweets_generator.c -o CMakeFiles/ex1.dir/tweets_generator.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/tweets_generator.c -o CMakeFiles/ex1.dir/tweets_generator.c.s
 
 # Object files for target ex1
 ex1_OBJECTS = \
@@ -119,7 +119,7 @@ ex1: CMakeFiles/ex1.dir/markov_chain.c.o
 ex1: CMakeFiles/ex1.dir/tweets_generator.c.o
 ex1: CMakeFiles/ex1.dir/build.make
 ex1: CMakeFiles/ex1.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable ex1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable ex1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ex1.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -131,6 +131,6 @@ CMakeFiles/ex1.dir/clean:
 .PHONY : CMakeFiles/ex1.dir/clean
 
 CMakeFiles/ex1.dir/depend:
-	cd /Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/raniaburaia/CLionProjects/EX1_MarkovChain /Users/raniaburaia/CLionProjects/EX1_MarkovChain /Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug /Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug /Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug/CMakeFiles/ex1.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1 /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1 /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug/CMakeFiles/ex1.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ex1.dir/depend
 

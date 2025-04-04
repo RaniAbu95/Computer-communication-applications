@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/raniaburaia/CLionProjects/EX1_MarkovChain
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/raniaburaia/CLionProjects/EX1_MarkovChain/cmake-build-debug
+-- Build files have been written to: /Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester_A/Computer-communication-applications/EX1/cmake-build-debug

@@ -1,3 +1,0 @@
-/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester A/יישומי תקשורת/EX3/EX3_files/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester A/יישומי תקשורת/EX3/EX3_files/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/raniaburaia/Desktop/Azrieli/Cources/2025/Semester A/יישומי תקשורת/EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir

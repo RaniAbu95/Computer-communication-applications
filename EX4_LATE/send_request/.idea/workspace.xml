@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="EX4" targetName="send_request" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77e1ed8e-45e6-4fa4-a80d-e7255b186be9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../EX1/ex1_tester/.idea/ex1_tester.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/ex1_tester/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX1/ex1_tester/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX3/cmake-build-debug/CMakeFiles/EX3_files.dir/server.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX3/cmake-build-debug/CMakeFiles/EX3_files.dir/threadpool.c.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EX3/cmake-build-debug/EX3_files" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/EX1_MarkovChain.dir/tweets_generator.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/MyApp.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/linked_list.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/linked_list.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/markov_chain.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/markov_chain.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/tweets_generator.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/ex1.dir/tweets_generator.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/untitled.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/untitled.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/untitled.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/untitled.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/untitled.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/untitled.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/CMakeFiles/untitled.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/EX1_MarkovChain.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/EX1_MarkovChain.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/cmake-build-debug/ex1" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/cmake-build-debug/ex1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/markov_chain.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/markov_chain.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/tweets_generator" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/tweets_generator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX1/tweets_generator.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX1/tweets_generator.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EX3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/.idea/EX3_files2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/403.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/404.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/500.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/501.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/abc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/server.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/EX3_files.dir/threadpool.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/client.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/client.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/server.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/server.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/server.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/server.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/server.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/server.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/CMakeFiles/server.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/EX2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/EX3.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/EX3_files" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/EX3_files.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/client" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/dir_content.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/ex3.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/file copy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/.idea/send_request.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/client" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/client.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/3.20.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/3.20.2/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/client.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/CMakeFiles/send_request.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/send_request" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/send_request/cmake-build-debug/send_request.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/server.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/threadpool.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EX3/EX3_files/threadpool.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2rzWNcE0R1cfGiHapY5kmuF9vr6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="send_request" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="127.0.0.1 5007" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EX4" TARGET_NAME="send_request" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EX4" RUN_TARGET_NAME="send_request">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77e1ed8e-45e6-4fa4-a80d-e7255b186be9" name="Changes" comment="" />
+      <created>1737562344554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737562344554</updated>
+      <workItem from="1737562345879" duration="66000" />
+      <workItem from="1737562450184" duration="1059000" />
+      <workItem from="1738778282878" duration="651000" />
+      <workItem from="1738863422261" duration="815000" />
+      <workItem from="1738864316469" duration="1357000" />
+      <workItem from="1738875572162" duration="2738000" />
+      <workItem from="1742997128772" duration="11486000" />
+      <workItem from="1743087025507" duration="2290000" />
+      <workItem from="1743164760253" duration="7760000" />
+      <workItem from="1743351352146" duration="135000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/client.c</url>
+          <line>33</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/client.c</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

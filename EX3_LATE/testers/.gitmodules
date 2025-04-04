@@ -1,0 +1,6 @@
+[submodule "tests_lib"]
+	path = tests_lib
+	url = https://github.com/nota-dr/Tests-Lib.git
+[submodule "assignment3-tester"]
+	path = assignment3-tester
+	url = git@github.com:nota-dr/Assignment3-Tester.git
